@@ -1,0 +1,15 @@
+/home/hoapham/Workspace/leetcode/Client/bin/Debug/net9.0/Client
+/home/hoapham/Workspace/leetcode/Client/bin/Debug/net9.0/Client.deps.json
+/home/hoapham/Workspace/leetcode/Client/bin/Debug/net9.0/Client.runtimeconfig.json
+/home/hoapham/Workspace/leetcode/Client/bin/Debug/net9.0/Client.dll
+/home/hoapham/Workspace/leetcode/Client/bin/Debug/net9.0/Client.pdb
+/home/hoapham/Workspace/leetcode/Client/obj/Debug/net9.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/hoapham/Workspace/leetcode/Client/obj/Debug/net9.0/Client.AssemblyInfoInputs.cache
+/home/hoapham/Workspace/leetcode/Client/obj/Debug/net9.0/Client.AssemblyInfo.cs
+/home/hoapham/Workspace/leetcode/Client/obj/Debug/net9.0/Client.csproj.CoreCompileInputs.cache
+/home/hoapham/Workspace/leetcode/Client/obj/Debug/net9.0/Client.sourcelink.json
+/home/hoapham/Workspace/leetcode/Client/obj/Debug/net9.0/Client.dll
+/home/hoapham/Workspace/leetcode/Client/obj/Debug/net9.0/refint/Client.dll
+/home/hoapham/Workspace/leetcode/Client/obj/Debug/net9.0/Client.pdb
+/home/hoapham/Workspace/leetcode/Client/obj/Debug/net9.0/Client.genruntimeconfig.cache
+/home/hoapham/Workspace/leetcode/Client/obj/Debug/net9.0/ref/Client.dll
